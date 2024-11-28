@@ -1,4 +1,4 @@
-# Sample source code for <Pareto Selective Error Feedback Suppression for Popularity–Diversity Balanced Session–based Recommendation>
+# Sample source code for <Pareto Selective Error Feedback Suppression for Popularity–Diversity Balanced Session–based Recommendation>. Ongoing project, full code releasing soon.
 
 ## Data Pre-process
 

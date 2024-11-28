@@ -1,9 +1,9 @@
-Sample source code for <Pareto Selective Error Feedback Suppression for Popularity–Diversity Balanced Session–based Recommendation>
+# Sample source code for <Pareto Selective Error Feedback Suppression for Popularity–Diversity Balanced Session–based Recommendation>
 
-- Data Pre-process
+## Data Pre-process
 
-We follow the data pre-processing steps from their original papers. A sample dataset of Diginetica is in the datasets folder
+We follow the data pre-processing steps from their original papers. A sample dataset of **Diginetica** is in the datasets folder
 
-- Train the model
+## Train the model
 
-python main.py --dataset [dataset]
+`python main.py --dataset [dataset]`
